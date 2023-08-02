@@ -64,7 +64,8 @@ This project is developed and maintained by:
 - Jacob Jaroya 🚀
 - Kinsley Yaw Asiedu ⭐️
 - Felix kiprotich 💡
-- Jedida Mutonyi Kisiang'Ani 
+- Jedida Mutonyi Kisiang'Ani
+  
 Feel free to reach out to us with any questions or feedback!
 
 
